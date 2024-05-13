@@ -4,3 +4,7 @@ git config --global user.email "my@example_mail.com"
 
 
 git config --global user.name "Katharina"
+
+w
+
+ git config --global http.proxy http://proxyz:3128
