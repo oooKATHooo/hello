@@ -1,1 +1,6 @@
 hier steht Zeugs...
+
+git config --global user.email "my@example_mail.com"
+
+
+git config --global user.name "Katharina"
